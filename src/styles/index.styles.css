@@ -1,0 +1,15 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'roboto';
+}
+
+.makeStyles-imageMarked-14 {
+    display: none!important
+}
+
+.MuiTypography-subtitle1 {
+    color: #23cc2c!important;
+    font-weight: 600;
+}
