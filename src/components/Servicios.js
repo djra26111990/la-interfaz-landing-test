@@ -30,7 +30,7 @@ const useStyles = makeStyles((theme) => ({
   },
   image: {
     position: 'relative',
-    height: 400,
+    height: 260,
     background: '#2c522e',
     [theme.breakpoints.down('xs')]: {
       width: '100% !important', // Overrides inline-style
